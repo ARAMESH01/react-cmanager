@@ -1,0 +1,69 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  animation: App-logo-spin infinite 20s linear;
+  height: 80px;
+}
+
+.App-header {
+  background-color: #222;
+  height: 150px;
+  padding: 20px;
+  color: white;
+}
+
+.App-title {
+  font-size: 1.5em;
+}
+
+.App-intro {
+  font-size: large;
+}
+
+@keyframes App-logo-spin {
+  from { transform: rotate(0deg); }
+  to { transform: rotate(360deg); }
+}
+
+.avatar {
+    vertical-align: middle;
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+}
+
+li > a.nav-link > i.blue-font {
+  color: blue;
+  padding: 15px;
+}
+
+li > a.nav-link > i.red-font {
+  color: red;
+  padding: 15px;
+}
+
+li > a.nav-link > i.gray-center{
+  text-align: center;
+}
+
+li > a.nav-link > i.DimGray-font {
+  color: DimGray;
+  padding: 15px;
+}
+
+li > a.nav-link > i.DarkCyan-font {
+  color: #008B8B;
+  padding: 15px;
+}
+
+li > a.nav-link > i.nav-text {
+  color: black;
+  padding: 15px;
+}
+
+.quadyster-logo {
+  height: 60px;
+  width: 60px;
+}
